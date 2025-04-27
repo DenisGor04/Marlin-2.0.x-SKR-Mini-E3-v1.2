@@ -60,7 +60,7 @@
 // Filament Runout Sensor
 //
 #ifndef FIL_RUNOUT_PIN
-  #define FIL_RUNOUT_PIN   PC12
+  #define FIL_RUNOUT_PIN   PC15   //Changed to PC15 for SKR E3 V1.2 E0-Stop port 
 #endif
 
 //
